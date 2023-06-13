@@ -1,0 +1,4 @@
+Class rutik{
+ Sting name,
+String birth
+}
